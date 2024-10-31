@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Remove Cart Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-20 05:52+0000\n"
+"PO-Revision-Date: 2022-03-18 06:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.7; wp-5.9\n"
+"X-Domain: remove-cart-products"
+
+#: templates/admin-setting_option.php:48
+msgid "1. Set Hours or Minutes ( Mandatory )*"
+msgstr "1. 设置小时或分钟（强制）*"
+
+#: templates/admin-setting_option.php:56
+msgid "2. After Login user or Open the site"
+msgstr "2.登录用户或打开网站后"
+
+#: templates/admin-setting_option.php:64
+msgid "3. After Logout User"
+msgstr "3.注销用户后"
+
+#: templates/admin-setting_option.php:72
+msgid "4. After Close Browser"
+msgstr "4.关闭浏览器后"
+
+#: templates/admin-setting_option.php:80
+msgid "5. Click on button"
+msgstr "5.点击按钮"
+
+#: templates/admin-setting_option.php:42
+msgid "After Close Browser"
+msgstr "关闭浏览器后"
+
+#: templates/admin-setting_option.php:40
+msgid "After Login user"
+msgstr "登录用户后"
+
+#: templates/admin-setting_option.php:41
+msgid "After Logout User"
+msgstr "注销用户后"
+
+#: templates/admin-setting_option.php:51
+msgid ""
+"As per the time set, the product that carted will automatically removed by "
+"the plugin if the user will not going to purchase the product ( Hours / "
+"Minutes ). As this is mandatory field, if you do not set these field value "
+"then it will take an hour and remove the product automatically that present "
+"in cart."
+msgstr ""
+"根据设置的时间，如果用户不打算购买产品（小时/分钟），插件将自动删除已购买的产品。由于这是必填字段，如果您不设置这些字段值，则需要一个小时并自动删除购物车中的产品。"
+
+#: templates/admin-setting_option.php:131
+msgid "Background Color : "
+msgstr "背景颜色 ："
+
+#: classes/RCP_admin.php:100
+msgid "Bottom Left"
+msgstr "左下方"
+
+#: classes/RCP_admin.php:101
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: templates/admin-setting_option.php:142
+msgid "Button Border Settings"
+msgstr "按钮边框设置"
+
+#: templates/admin-setting_option.php:119
+msgid "Button Color & Text"
+msgstr "按钮颜色和文字"
+
+#: templates/admin-setting_option.php:96
+msgid "Button Position"
+msgstr "按钮位置"
+
+#: templates/admin-setting_option.php:218
+msgid "Button Setting"
+msgstr "按钮设置"
+
+#: templates/admin-setting_option.php:19
+msgid "Button Settings"
+msgstr "按钮设置"
+
+#: classes/RCP_admin.php:28 templates/footer-button.php:8
+msgid "Clear Cart"
+msgstr "清除购物车"
+
+#: templates/admin-setting_option.php:43
+msgid "Click on Button"
+msgstr "点击按钮"
+
+#. Author of the plugin
+msgid "Efflux Perceive"
+msgstr "外流感知"
+
+#: templates/admin-setting_option.php:180
+msgid "Enter Border Color :"
+msgstr "输入边框颜色："
+
+#: templates/admin-setting_option.php:172
+msgid "Enter Border Radius : "
+msgstr "输入边界半径："
+
+#: templates/admin-setting_option.php:146
+#: templates/admin-setting_option.php:154
+msgid "Enter Border Width : "
+msgstr "输入边框宽度："
+
+#: templates/admin-setting_option.php:214
+msgid "Enter Hours"
+msgstr "输入营业时间"
+
+#: templates/admin-setting_option.php:210
+msgid "Enter Minutes"
+msgstr "输入分钟"
+
+#: templates/admin-setting_option.php:37
+msgid "Five ways are listed as below :"
+msgstr "下面列出了五种方法："
+
+#: templates/admin-setting_option.php:22
+msgid "General Settings"
+msgstr "通用设置"
+
+#: classes/RCP_admin.php:90
+msgid "Hours"
+msgstr "小时"
+
+#: templates/admin-setting_option.php:232
+msgid "Hours Setting"
+msgstr "小时设置"
+
+#: templates/admin-setting_option.php:75
+msgid ""
+"If user are close the whole browser, The product which is added in cart will "
+"be automatically removed."
+msgstr "如果用户关闭整个浏览器，添加到购物车的产品将被自动删除。"
+
+#: templates/admin-setting_option.php:16
+msgid "Informations"
+msgstr "信息"
+
+#: classes/RCP_admin.php:89
+msgid "Minutes"
+msgstr "分钟"
+
+#: templates/admin-setting_option.php:33
+msgid "Plugin Details"
+msgstr "插件详情v"
+
+#. Name of the plugin
+msgid "Remove Cart Products"
+msgstr "删除购物车产品"
+
+#: templates/admin-setting_option.php:252
+msgid "Save settings"
+msgstr "保存设置"
+
+#: templates/admin-setting_option.php:100
+msgid "Select Position :"
+msgstr "选择职位："
+
+#: templates/admin-setting_option.php:195
+msgid "Select Time Type"
+msgstr "选择时间类型"
+
+#: templates/admin-setting_option.php:39
+msgid "Set Hours or Minutes ( Mandatory )*"
+msgstr "设置小时或分钟（强制）*"
+
+#: templates/admin-setting_option.php:9
+msgid "Set time( Hours / Minutes ) for automatically removed cart products."
+msgstr "为自动删除的购物车产品设置时间（小时/分钟）。"
+
+#: templates/admin-setting_option.php:123
+msgid "Text Color : "
+msgstr "文字颜色："
+
+#. Description of the plugin
+msgid ""
+"This plugin is useful for removing automatically cart product which is added "
+"by the users."
+msgstr "此插件可用于自动删除用户添加的购物车产品。"
+
+#: templates/admin-setting_option.php:36
+msgid ""
+"This plugin is useful for removing automatically cart product which is added "
+"by the users. We have providing three ways to remove cart products."
+msgstr "此插件可用于自动删除用户添加的购物车产品。我们提供了三种删除购物车产品的方法。"
+
+#: classes/RCP_admin.php:98
+msgid "Top Left"
+msgstr "左上方"
+
+#: classes/RCP_admin.php:99
+msgid "Top Right"
+msgstr "右上"
+
+#: templates/admin-setting_option.php:6
+msgid "welcome to our plugin settings."
+msgstr "欢迎来到我们的插件设置。"
+
+#: templates/admin-setting_option.php:59
+msgid ""
+"When user are open the site or login, All cart products will be "
+"automatically removed."
+msgstr "当用户打开网站或登录时，所有购物车产品将被自动删除。"
+
+#: templates/admin-setting_option.php:83
+msgid ""
+"When user click on front end displayed button all cart products will be "
+"automatically removed."
+msgstr "当用户点击前端显示的按钮时，所有购物车产品将被自动删除。"
+
+#: templates/admin-setting_option.php:67
+msgid ""
+"When user is logout  after that all cart product will be removed "
+"automatically."
+msgstr "当用户退出后，所有购物车产品将被自动删除。"
+
+#: classes/RCP_admin.php:27
+msgid "Woocommerce Clear Cart on Browser Closing"
+msgstr "Woocommerce 在浏览器关闭时清除购物车"

@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Remove Cart Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-14 08:20+0000\n"
+"PO-Revision-Date: 2022-03-18 06:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.6; wp-5.8.3\n"
+"X-Domain: remove-cart-products\n"
+
+#: templates/admin-setting_option.php:48
+msgid "1. Set Hours or Minutes ( Mandatory )*"
+msgstr "1. Stellen Sie Stunden oder Minuten ein (obligatorisch)*"
+
+#: templates/admin-setting_option.php:56
+msgid "2. After Login user or Open the site"
+msgstr "2. Nach dem Login-Benutzer oder Öffnen Sie die Website"
+
+#: templates/admin-setting_option.php:64
+msgid "3. After Logout User"
+msgstr "3. Nach dem Abmelden des Benutzers"
+
+#: templates/admin-setting_option.php:72
+msgid "4. After Close Browser"
+msgstr "4. Nach Schließen des Browsers"
+
+#: templates/admin-setting_option.php:80
+msgid "5. Click on button"
+msgstr "5. Klicken Sie auf die Schaltfläche"
+
+#: templates/admin-setting_option.php:42
+msgid "After Close Browser"
+msgstr "Nach Schließen des Browsers"
+
+#: templates/admin-setting_option.php:40
+msgid "After Login user"
+msgstr "Nach Login-Benutzer"
+
+#: templates/admin-setting_option.php:41
+msgid "After Logout User"
+msgstr "Nach dem Abmelden des Benutzers"
+
+#: templates/admin-setting_option.php:51
+msgid ""
+"As per the time set, the product that carted will automatically removed by "
+"the plugin if the user will not going to purchase the product ( Hours / "
+"Minutes ). As this is mandatory field, if you do not set these field value "
+"then it will take an hour and remove the product automatically that present "
+"in cart."
+msgstr ""
+"Gemäß der eingestellten Zeit wird das Produkt, das in den Warenkorb gelegt "
+"wurde, automatisch vom Plugin entfernt, wenn der Benutzer das Produkt nicht "
+"kaufen wird (Stunden / Minuten). Da dies ein Pflichtfeld ist, dauert es eine "
+"Stunde, wenn Sie diesen Feldwert nicht festlegen, und das Produkt wird "
+"automatisch aus dem Einkaufswagen entfernt."
+
+#: templates/admin-setting_option.php:131
+msgid "Background Color : "
+msgstr "Hintergrundfarbe : "
+
+#: classes/RCP_admin.php:100
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: classes/RCP_admin.php:101
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: templates/admin-setting_option.php:142
+msgid "Button Border Settings"
+msgstr "Rahmeneinstellungen für Schaltflächen"
+
+#: templates/admin-setting_option.php:119
+msgid "Button Color & Text"
+msgstr "Schaltflächenfarbe und -text"
+
+#: templates/admin-setting_option.php:96
+msgid "Button Position"
+msgstr "Schaltflächenposition"
+
+#: templates/admin-setting_option.php:218
+msgid "Button Setting"
+msgstr "Tasteneinstellung"
+
+#: templates/admin-setting_option.php:19
+msgid "Button Settings"
+msgstr "Tasteneinstellungen"
+
+#: classes/RCP_admin.php:28 templates/footer-button.php:8
+msgid "Clear Cart"
+msgstr "Warenkorb löschen"
+
+#: templates/admin-setting_option.php:43
+msgid "Click on Button"
+msgstr "Klicken Sie auf Schaltfläche"
+
+#. Author of the plugin
+msgid "Efflux Perceive"
+msgstr "Ausfluss wahrnehmen"
+
+#: templates/admin-setting_option.php:180
+msgid "Enter Border Color :"
+msgstr "Rahmenfarbe eingeben:"
+
+#: templates/admin-setting_option.php:172
+msgid "Enter Border Radius : "
+msgstr "Grenzradius eingeben: "
+
+#: templates/admin-setting_option.php:146
+#: templates/admin-setting_option.php:154
+msgid "Enter Border Width : "
+msgstr "Rahmenbreite eingeben: "
+
+#: templates/admin-setting_option.php:214
+#| msgid "Enter Hours :"
+msgid "Enter Hours"
+msgstr "Geben Sie Stunden ein"
+
+#: templates/admin-setting_option.php:210
+#| msgid "Enter Minutes :"
+msgid "Enter Minutes"
+msgstr "Minuten eingeben"
+
+#: templates/admin-setting_option.php:37
+msgid "Five ways are listed as below :"
+msgstr "Fünf Möglichkeiten sind wie folgt aufgeführt:"
+
+#: templates/admin-setting_option.php:22
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: classes/RCP_admin.php:90
+msgid "Hours"
+msgstr "Std"
+
+#: templates/admin-setting_option.php:232
+msgid "Hours Setting"
+msgstr "Stundeneinstellung"
+
+#: templates/admin-setting_option.php:75
+msgid ""
+"If user are close the whole browser, The product which is added in cart will "
+"be automatically removed."
+msgstr ""
+"Wenn der Benutzer den gesamten Browser schließt, wird das dem Warenkorb "
+"hinzugefügte Produkt automatisch entfernt."
+
+#: templates/admin-setting_option.php:16
+msgid "Informations"
+msgstr "Informationen"
+
+#: classes/RCP_admin.php:89
+msgid "Minutes"
+msgstr "Protokoll"
+
+#: templates/admin-setting_option.php:33
+msgid "Plugin Details"
+msgstr "Plugin-Details"
+
+#. Name of the plugin
+msgid "Remove Cart Products"
+msgstr "Einkaufswagenprodukte entfernen"
+
+#: templates/admin-setting_option.php:252
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: templates/admin-setting_option.php:100
+msgid "Select Position :"
+msgstr "Stelle auswählen:"
+
+#: templates/admin-setting_option.php:195
+#| msgid "Select Time Type :"
+msgid "Select Time Type"
+msgstr "Wählen Sie den Zeittyp aus"
+
+#: templates/admin-setting_option.php:39
+msgid "Set Hours or Minutes ( Mandatory )*"
+msgstr "Stunden oder Minuten einstellen (obligatorisch)*"
+
+#: templates/admin-setting_option.php:9
+msgid "Set time( Hours / Minutes ) for automatically removed cart products."
+msgstr ""
+"Stellen Sie die Zeit (Stunden / Minuten) für automatisch entfernte "
+"Warenkorbprodukte ein."
+
+#: templates/admin-setting_option.php:123
+msgid "Text Color : "
+msgstr "Textfarbe : "
+
+#. Description of the plugin
+msgid ""
+"This plugin is useful for removing automatically cart product which is added "
+"by the users."
+msgstr ""
+"Dieses Plugin ist nützlich, um automatisch Warenkorbprodukte zu entfernen, "
+"die von den Benutzern hinzugefügt werden."
+
+#: templates/admin-setting_option.php:36
+msgid ""
+"This plugin is useful for removing automatically cart product which is added "
+"by the users. We have providing three ways to remove cart products."
+msgstr ""
+"Dieses Plugin ist nützlich, um automatisch Warenkorbprodukte zu entfernen, "
+"die von den Benutzern hinzugefügt werden. Wir haben drei Möglichkeiten, "
+"Warenkorbprodukte zu entfernen."
+
+#: classes/RCP_admin.php:98
+msgid "Top Left"
+msgstr "Oben links"
+
+#: classes/RCP_admin.php:99
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: templates/admin-setting_option.php:6
+msgid "welcome to our plugin settings."
+msgstr "willkommen zu unseren Plugin-Einstellungen."
+
+#: templates/admin-setting_option.php:59
+msgid ""
+"When user are open the site or login, All cart products will be "
+"automatically removed."
+msgstr ""
+"Wenn Benutzer die Website öffnen oder sich anmelden, werden alle "
+"Warenkorbprodukte automatisch entfernt."
+
+#: templates/admin-setting_option.php:83
+msgid ""
+"When user click on front end displayed button all cart products will be "
+"automatically removed."
+msgstr ""
+"Wenn der Benutzer auf die im Frontend angezeigte Schaltfläche klickt, werden "
+"alle Warenkorbprodukte automatisch entfernt."
+
+#: templates/admin-setting_option.php:67
+msgid ""
+"When user is logout  after that all cart product will be removed "
+"automatically."
+msgstr ""
+"Wenn sich der Benutzer danach abmeldet, werden alle Warenkorbprodukte "
+"automatisch entfernt."
+
+#: classes/RCP_admin.php:27
+msgid "Woocommerce Clear Cart on Browser Closing"
+msgstr "Woocommerce Clear Cart beim Schließen des Browsers"
